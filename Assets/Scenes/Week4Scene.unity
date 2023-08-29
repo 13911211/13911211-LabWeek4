@@ -154,6 +154,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   redObj: {fileID: 330842266927664140, guid: 7df53af4f96ee0f43901cc38823ea5b2, type: 3}
+  blueObj: {fileID: 4958030701686993192, guid: 6192fe723275f2343bcb87076909c549, type: 3}
 --- !u!4 &336138514
 Transform:
   m_ObjectHideFlags: 0
